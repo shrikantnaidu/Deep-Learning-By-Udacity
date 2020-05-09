@@ -15,6 +15,6 @@ This repository contains material related to Udacity's [Intro to Deep Learning w
 
 ### Convolutional Neural Networks
 
-* [Convolutional Neural Networks](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/convolutional-neural-networks): Visualize the output of layers that make up a CNN. Learn how to define and train a CNN for classifying [MNIST data](https://en.wikipedia.org/wiki/MNIST_database), a handwritten digit database that is notorious in the fields of machine and deep lea
+* [Convolutional Neural Networks](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/convolutional_neural_networks): Visualize the output of layers that make up a CNN. Learn how to define and train a CNN for classifying [MNIST data](https://en.wikipedia.org/wiki/MNIST_database), a handwritten digit database that is notorious in the fields of machine and deep lea
 
 
