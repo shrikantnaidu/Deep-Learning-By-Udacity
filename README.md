@@ -20,3 +20,8 @@ This repository contains material related to Udacity's [Intro to Deep Learning w
 * [Transfer Learning](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/transfer_learning). In practice, most people don't train their own networks on huge datasets; they use **pre-trained** networks such as VGGnet. Here you'll use VGGnet to help classify images of flowers without training an end-to-end network from scratch.  
 
 * [Autoencoders](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/autoencoder): Build models for image compression and de-noising, using feedforward and convolutional networks in PyTorch.
+
+
+### Recurrent Neural Networks
+
+* [Intro to Recurrent Networks (Time series & Character-level RNN)](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/recurrent_neural_networks): Recurrent neural networks are able to use information about the sequence of data, such as the sequence of characters in text; learn how to implement these in PyTorch for a variety of tasks.
