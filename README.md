@@ -27,3 +27,7 @@ This repository contains material related to Udacity's [Intro to Deep Learning w
 * [Intro to Recurrent Networks (Time series & Character-level RNN)](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/recurrent_neural_networks): Recurrent neural networks are able to use information about the sequence of data, such as the sequence of characters in text; learn how to implement these in PyTorch for a variety of tasks.
 
 * [Sentiment Analysis RNN](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/sentiment_analysis_rnn): Implement a recurrent neural network that can predict if the text of a moview review is positive or negative.
+
+
+### Keras
+* [Keras Mini-Project](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/keras/student_admissions_keras): Learn how to implement gradient descent and apply it to predicting patterns in student admissions data using Keras.
