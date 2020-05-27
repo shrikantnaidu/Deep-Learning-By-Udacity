@@ -19,7 +19,7 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 * [Transfer Learning](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/transfer_learning). In practice, most people don't train their own networks on huge datasets; they use **pre-trained** networks such as VGGnet. Here you'll use VGGnet to help classify images of flowers without training an end-to-end network from scratch.  
 
-* [Weight Initialization](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/weight-initialization): Explore how initializing network weights affects performance.
+* [Weight Initialization](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/weight_initialization): Explore how initializing network weights affects performance.
 
 * [Autoencoders](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/autoencoder): Build models for image compression and de-noising, using feedforward and convolutional networks in PyTorch.
 
