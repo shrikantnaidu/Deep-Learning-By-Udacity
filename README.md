@@ -30,7 +30,7 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 * [Intro to Recurrent Networks (Time series & Character-level RNN)](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/recurrent_neural_networks): Recurrent neural networks are able to use information about the sequence of data, such as the sequence of characters in text; learn how to implement these in PyTorch for a variety of tasks.
 
-* [Embeddings (Word2Vec)](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/word2vec-embeddings): Implement the Word2Vec model to find semantic representations of words for use in natural language processing.
+* [Embeddings (Word2Vec)](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/word2vec_embeddings): Implement the Word2Vec model to find semantic representations of words for use in natural language processing.
 
 * [Sentiment Analysis RNN](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/sentiment_analysis_rnn): Implement a recurrent neural network that can predict if the text of a moview review is positive or negative.
 
