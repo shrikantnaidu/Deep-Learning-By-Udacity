@@ -34,6 +34,8 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 * [Sentiment Analysis RNN](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/sentiment_analysis_rnn): Implement a recurrent neural network that can predict if the text of a moview review is positive or negative.
 
+* [Attention](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/attention): Implement attention and apply it to annotation vectors.
+
 
 ### Keras
 * [Keras Mini-Project](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/keras/student_admissions_keras): Learn how to implement gradient descent and apply it to predicting patterns in student admissions data using Keras.
