@@ -36,6 +36,11 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 * [Attention](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/attention): Implement attention and apply it to annotation vectors.
 
+### Generative Adversarial Networks
+
+* [Generative Adversarial Network on MNIST](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/gan-mnist): Train a simple generative adversarial network on the MNIST dataset.
+
+
 
 ### Keras
 * [Keras Mini-Project](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/keras/student_admissions_keras): Learn how to implement gradient descent and apply it to predicting patterns in student admissions data using Keras.
