@@ -38,7 +38,7 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 ### Generative Adversarial Networks
 
-* [Generative Adversarial Network on MNIST](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/gan-mnist): Train a simple generative adversarial network on the MNIST dataset.
+* [Generative Adversarial Network on MNIST](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/mnist_gan): Train a simple generative adversarial network on the MNIST dataset.
 
 
 
