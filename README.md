@@ -42,7 +42,9 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 ### Generative Adversarial Networks
 
 * [Generative Adversarial Network on MNIST](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/mnist_gan): Train a simple generative adversarial network on the MNIST dataset.
+
 * [Batch Normalization](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/batch_nomarlization): Learn how to improve training rates and network stability with batch normalizations.
+
 * [Deep Convolutional GAN (DCGAN)](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/deep_convolutional_gan): Implement a DCGAN to generate new images based on the Street View House Numbers (SVHN) dataset.
 
 
