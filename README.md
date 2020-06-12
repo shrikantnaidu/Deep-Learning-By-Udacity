@@ -49,7 +49,7 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 * [Deep Convolutional GAN (DCGAN)](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/deep_convolutional_gan): Implement a DCGAN to generate new images based on the Street View House Numbers (SVHN) dataset.
 
-* [CycleGAN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/cycle-gan): Implement a CycleGAN that is designed to learn from unpaired and unlabeled data; use trained generators to transform images from summer to winter and vice versa.
+* [CycleGAN](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/cycle_gan): Implement a CycleGAN that is designed to learn from unpaired and unlabeled data; use trained generators to transform images from summer to winter and vice versa.
 
 
 
