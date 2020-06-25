@@ -53,7 +53,7 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 ### Deploying a Model (with AWS SageMaker)
 
-* [AWS SageMaker Tutorials](https://github.com/udacity/sagemaker-deployment) for the lessons on model deployment can be found in the linked, Github repo. Learn to deploy pre-trained models using AWS SageMaker.
+* [AWS SageMaker Tutorials](https://github.com/shrikantnaidu/AWS-SageMaker) for the lessons on model deployment can be found in the linked, Github repo. Learn to deploy pre-trained models using AWS SageMaker.
 
 
 ### Keras
