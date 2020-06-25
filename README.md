@@ -51,6 +51,9 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 * [CycleGAN](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/cycle_gan): Implement a CycleGAN that is designed to learn from unpaired and unlabeled data; use trained generators to transform images from summer to winter and vice versa.
 
+### Deploying a Model (with AWS SageMaker)
+
+* [AWS SageMaker Tutorials](https://github.com/udacity/sagemaker-deployment) for the lessons on model deployment can be found in the linked, Github repo. Learn to deploy pre-trained models using AWS SageMaker.
 
 
 ### Keras
