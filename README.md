@@ -51,12 +51,11 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 * [CycleGAN](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/cycle_gan): Implement a CycleGAN that is designed to learn from unpaired and unlabeled data; use trained generators to transform images from summer to winter and vice versa.
 
-### Deploying a Model (with AWS SageMaker)
-
-* [AWS SageMaker Tutorials](https://github.com/shrikantnaidu/AWS-SageMaker) for the lessons on model deployment can be found in the linked, Github repo. Learn to deploy pre-trained models using AWS SageMaker.
-
-
 ### Keras
 * [Keras Mini-Project](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/keras/student_admissions_keras): Learn how to implement gradient descent and apply it to predicting patterns in student admissions data using Keras.
 
 * [IMDB Sentiment Analysis using Keras](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/blob/master/keras/IMDB_keras/IMDB_In_Keras.ipynb): Analyze the IMDB  dataset and use it to predict the sentiment analysis of a review with Keras.
+
+### Deploying a Model (with AWS SageMaker)
+
+* [AWS SageMaker Tutorials](https://github.com/shrikantnaidu/AWS-SageMaker) for the lessons on model deployment can be found in the linked, Github repo. Learn to deploy pre-trained models using AWS SageMaker.
