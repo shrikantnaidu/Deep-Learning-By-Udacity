@@ -56,6 +56,8 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 * [IMDB Sentiment Analysis using Keras](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/blob/master/keras/IMDB_keras/IMDB_In_Keras.ipynb): Analyze the IMDB  dataset and use it to predict the sentiment analysis of a review with Keras.
 
+* [MNIST classification using Keras](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/keras/mnist-mlp): Implementing CNN on the MNIST dataset using Keras.
+
 ### Deploying a Model (with AWS SageMaker)
 
 * [AWS SageMaker Tutorials](https://github.com/shrikantnaidu/AWS-SageMaker) for the lessons on model deployment can be found in the linked, Github repo. Learn to deploy pre-trained models using AWS SageMaker.
