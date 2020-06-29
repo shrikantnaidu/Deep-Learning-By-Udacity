@@ -60,6 +60,9 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 * [CIFAR10 classification using Keras](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/keras/cifar10_classification): Classifying images in the CIFAR10 dataset using Keras.
 
+* [CIFAR10 classification with image augmentation](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/keras/cifar10_augmentation): Classifying images in the CIFAR10 dataset using Keras.
+
+
 ### Deploying a Model (with AWS SageMaker)
 
 * [AWS SageMaker Tutorials](https://github.com/shrikantnaidu/AWS-SageMaker) for the lessons on model deployment can be found in the linked, Github repo. Learn to deploy pre-trained models using AWS SageMaker.
