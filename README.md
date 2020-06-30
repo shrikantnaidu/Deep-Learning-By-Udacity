@@ -62,6 +62,8 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 * [CIFAR10 classification with image augmentation](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/keras/cifar10_augmentation): Classifying images in the CIFAR10 dataset using Keras.
 
+* [Transfer Learning](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/keras/transfer-learning): Using Transfer Learning, classify dog breeds from the dogs dataset.
+
 
 ### Deploying a Model (with AWS SageMaker)
 
