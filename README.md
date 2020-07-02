@@ -67,6 +67,7 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 ### Tensorflow
 * [Miniflow](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/tensorflow/Miniflow): Building a small version of TensorFlow.
 
+* [TensorFlow](https://github.com/shrikantnaidu/Deep-Learning-By-Udacity/tree/master/tensorflow/Tensorflow): Starting building neural networks with TensorFlow.
 
 ### Deploying a Model (with AWS SageMaker)
 
